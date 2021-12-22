@@ -24,3 +24,4 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::livewire('/services', 'services-component')->layout('layouts.master')->section('body')->name('services');
 Route::livewire('/shop', 'shop-component')->layout('layouts.master')->section('body')->name('shop');
+Route::livewire('/about-us', 'about-us')->layout('layouts.master')->section('body')->name('about-us');
