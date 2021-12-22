@@ -18,7 +18,7 @@
 <a href="{{ route('shop') }}" class="nav-link">Shop</a>
 </li>
 <li class="nav-item">
-    <a href="{{ route('about-us') }}" class="nav-link">About Us</a>
+    <a href="{{ route('about-us') }}" class="nav-link">About Us Sample Pull</a>
     </li>
 </ul>
 <div class="side-nav two">
